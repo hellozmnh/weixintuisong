@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxf667afa6f8786bb4",
+# 公众号appSecret
+"app_secret": "cf1cd83b0d71ca4493633f0cbc32ec38",
+# 模板消息id
+"template_id": "nZ7sDxoxK86C2l6LfL-L4LlkpV5mteFW0LRMUyHeKLE",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oTWwX6oKuae7RVSyNKK0_D2PHlhE"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "456d1393e9044bfa9c4874084ab911e9",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "甘肃省陇南市",
+# 生日1
+"birthday1": {"name": "小伟子", "birthday": "2000-05-24"},
+# 生日2
+"birthday2": {"name": "小米", "birthday": "2000-04-21"},
+# 在一起的日子，格式同上
+"love_date": "2019-09-20",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "喜欢一个人的感觉,大概就是听别人讨论爱情,我只想起你",
+# 金句英文
+"note_en": "The feeling of liking a person is probably listening to others discuss love, and I only think of you"
+}
