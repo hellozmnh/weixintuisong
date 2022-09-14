@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上
 "love_date": "2016-09-20",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "喜欢一个人的感觉,大概就是听别人讨论爱情,我只想起你",
+"note_ch": "静下来想你，觉得一切都美好得不可思议。",
 # 金句英文
-"note_en": "The feeling of liking a person is probably listening to others discuss love, and I only think of you"
+"note_en": "Calm down and think about you, think that everything is incredibly beautiful."
 }
